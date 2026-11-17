@@ -3,3 +3,4 @@ I am studying Computer Programming.
 I hope to learn more about Git and GitHub collaboration.
 We are learning how to create repositories and work with branches.
 This repository was updated by Kailie Morand
+I am practicing Git branching, merging and collaboration
