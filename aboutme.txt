@@ -1,3 +1,4 @@
 My name is Chelsea Young.
 I am studying Computer Programming.
 I hope to learn more about Git and GitHub collaboration.
+We are learning how to create repositories and work with branches. 
